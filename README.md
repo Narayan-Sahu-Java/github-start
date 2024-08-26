@@ -1,4 +1,4 @@
 # github-start
 getting started with github
 <br>
-by author - Narayan Sahu (oi oi cunt)
+by author - Narayan Sahu 
